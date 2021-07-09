@@ -1,0 +1,99 @@
+body {
+    background-color: black;
+}
+
+.bigpic {
+    width: 100%;
+    height: 100%
+}
+
+.navbar-nav {
+    margin: auto;
+}
+
+.centered {
+    position: absolute;
+    top: 100%;
+    left: 20%;
+    text-align: center;
+    color: white;
+    margin-top: 250px;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.border {
+    background-color: white;
+    width: 1296px;
+    height: 2000px;
+    text-align: center;
+}
+
+button {
+    border: 1px solid black;
+    border-radius: 2px;
+    width: 73%;
+    font-size: 15px;
+    margin: auto;
+    display: block;
+}
+
+.color {
+    background-color: white;
+}
+
+.fourpic {
+    margin: 100px;
+    margin-left: -400px;
+    height: 150px;
+    width: 200px;
+}
+
+.Text {
+    display: inline-block;
+    text-align: left;
+    line-height: 2.0;
+}
+
+.pic {
+    height: 150px;
+    width: 200px;
+    float: right;
+}
+
+.button2 {
+    background-color: yellow;
+    font-size: 15px;
+}
+
+.row {
+    margin: 50px;
+    padding: 40px;
+}
+
+.col-md-12 {
+    padding-bottom: 45px;
+}
+
+.ReadMore {
+    color: #FFFFFF;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    padding: 8px;
+    font-weight: bold;
+    background-color: #F6D93D;
+    border: solid #000000 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+.line{
+    padding: 30px;
+}
+
+
+.navbar-brand {
+    font-size: 25px;
+}
